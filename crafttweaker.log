@@ -1,0 +1,32 @@
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: banned-items.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: futura.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 1ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: banned-items.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: futura.zs}
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 176ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <botania:starfield>
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <computronics:chat_box>
+[POSTINITIALIZATION][SERVER][INFO] 0 removed
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <actuallyadditions:item_mining_lens>
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <chisel:futura> * 8
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Futura Block with name ct_shaped1512950856
+[AVAILABLE][SERVER][INFO] Attempting to remove apothecary recipe for [<botania:specialflower>.withTag({type: "orechid"})]
+[AVAILABLE][SERVER][INFO] Removing 1 Botania Petal Recipe(s) for <botania:specialflower>.withTag({type: "orechid"})
+[AVAILABLE][SERVER][INFO] Attempting to remove apothecary recipe for [<botania:specialflower>.withTag({type: "orechidIgnem"})]
+[AVAILABLE][SERVER][INFO] Removing 1 Botania Petal Recipe(s) for <botania:specialflower>.withTag({type: "orechidIgnem"})
+[AVAILABLE][SERVER][INFO] Attempting to remove Lexicon entry botania.entry.orechid
+[AVAILABLE][SERVER][INFO] Removing Lexicon entry: botania.entry.orechid
+[AVAILABLE][SERVER][INFO] Attempting to remove Lexicon entry botania.entry.orechidIgnem
+[AVAILABLE][SERVER][INFO] Removing Lexicon entry: botania.entry.orechidIgnem
+[AVAILABLE][SERVER][INFO] Attempting to remove Lexicon entry botania.entry.starfield
+[AVAILABLE][SERVER][INFO] Removing Lexicon entry: botania.entry.starfield

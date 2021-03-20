@@ -1,0 +1,2 @@
+recipes.removeShaped(<chisel:futura> * 8, [[<ore:stone>, <ore:stone>, <ore:stone>],[<ore:stone>, <minecraft:redstone>, <ore:stone>], [<ore:stone>, <ore:stone>, <ore:stone>]]);
+recipes.addShaped(<chisel:futura> * 8, [[<ore:stone>, <ore:stone>, <ore:stone>],[<ore:stone>, <ore:nuggetIron>, <ore:stone>], [<ore:stone>, <ore:stone>, <ore:stone>]]);

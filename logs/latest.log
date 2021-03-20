@@ -1,0 +1,507 @@
+[10:39:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[10:39:10] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[10:39:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[10:39:10] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[10:39:10] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_281, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_281
+[10:39:10] [main/INFO] [FML]: Searching C:\Users\Lorenz\Desktop\LurCraft test\.\mods for mods
+[10:39:10] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[10:39:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.1.30.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:39:10] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:39:10] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[10:39:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.10-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:39:10] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:39:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.64+dev.150.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:39:10] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:39:10] [main/WARN] [FML]: The coremod openeye.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:39:10] [main/WARN] [FML]: The coremod OpenEyePlugin (openeye.CorePlugin) is not signed!
+[10:39:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-178.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:39:10] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[10:39:10] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:39:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:39:10] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[10:39:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:39:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:39:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:39:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:39:11] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[10:39:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:39:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:39:19] [main/INFO] [LaunchWrapper]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[10:39:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:39:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:39:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:39:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:39:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:39:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:39:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:39:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:98]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:135]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:62]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[10:39:20] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[10:39:20] [main/INFO] [BetterFps]: Patching net.minecraft.block.Block... (aow)
+[10:39:20] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[10:39:20] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[10:39:20] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:158]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:158]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:158]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:158]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[10:39:20] [main/INFO] [BetterFps]: Patching math utils with "RIVENS_HALF" algorithm
+[10:39:20] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[10:39:20] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[10:39:20] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:20] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[10:39:20] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:20] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[10:39:20] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:21] [main/INFO] [BetterFps]: Patching net.minecraft.block.BlockHopper... (arl)
+[10:39:21] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[10:39:21] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[10:39:21] [main/INFO] [BetterFps]: Patching net.minecraft.tileentity.TileEntityHopper... (avw)
+[10:39:21] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentDamage
+[10:39:21] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[10:39:21] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:21] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[10:39:21] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[10:39:21] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:21] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[10:39:21] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[10:39:21] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:21] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[10:39:21] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:21] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[10:39:21] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[10:39:21] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:21] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[10:39:21] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:21] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemBanner
+[10:39:21] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [appendHoverTextFromTileEntityTag, func_185054_a] Descriptor (Lnet/minecraft/item/ItemStack;Ljava/util/List;)V)
+[10:39:21] [main/INFO] [Quark ASM]: Failed to locate the method!
+[10:39:21] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.ai.EntityAITarget
+[10:39:21] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
+[10:39:21] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:21] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:98]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[10:39:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[10:39:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:158]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[10:39:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:158]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[10:39:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:158]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[10:39:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:158]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[10:39:21] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:158]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[10:39:21] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
+[10:39:21] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [matches, func_77569_a] Descriptor (Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z)
+[10:39:21] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:21] [main/INFO] [Quark ASM]: Located patch target node INVOKESTATIC net/minecraft/tileentity/TileEntityBanner.func_175113_c (Lnet/minecraft/item/ItemStack;)I
+[10:39:21] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:22] [main/INFO] [BetterFps]: Patching net.minecraft.server.dedicated.DedicatedServer... (nz)
+[10:39:22] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerMerchant
+[10:39:22] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[10:39:22] [main/INFO] [Quark ASM]: Located Method, patching...
+[10:39:22] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[10:39:22] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[10:39:22] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[10:39:22] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[10:39:22] [main/INFO] [Quark ASM]: Patch result: true
+[10:39:22] [main/WARN] [OpenEye]: openeye.asm.injectors.ExceptionHandlerInjector.visitTryCatchBlock(ExceptionHandlerInjector.java:49): Invalid method structure, more than 2 exception handlers. Aborting
+[10:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[10:39:22] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+java.io.IOException: Das Handle ist ungültig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_281]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
+[10:39:22] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[10:39:22] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[10:39:22] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[10:39:22] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[10:39:23] [Server thread/INFO] [FML]: Searching C:\Users\Lorenz\Desktop\LurCraft test\.\mods for mods
+[10:39:23] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[10:39:24] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
+[10:39:24] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[10:39:24] [Server thread/WARN] [FML]: Mod enderstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.6.137
+[10:39:24] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[10:39:24] [Server thread/INFO] [FML]: Disabling mod moreoverlays it is client side only.
+[10:39:24] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[10:39:24] [Server thread/INFO] [FML]: Forge Mod Loader has identified 45 mods to load
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for cctweaked: assets/cctweaked/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for crafttweaker: assets/crafttweaker/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for fastfurnace: assets/fastfurnace/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for fastbench: assets/fastbench/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for modtweaker: assets/modtweaker/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for mtlib: assets/mtlib/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for plethora-core: assets/plethora-core/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[10:39:24] [Server thread/WARN] [FML]: Missing English translation for unidict: assets/unidict/lang/en_us.lang
+[10:39:24] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.1.30.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:39:24] [Server thread/INFO] [FML]: FML has found a non-mod file moreoverlays-1.15.1-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:39:24] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:39:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, OpenEye, foamfixcore, actuallyadditions, akashictome, appleskin, autoreglib, baubles, botania, cctweaked, computercraft, chisel, codechickenlib, cofhcore, cofhworld, computronics, asielib, crafttweaker, crafttweakerjei, enderstorage, fastfurnace, fastbench, foamfix, inventorytweaks, ironchest, jei, modtweaker, morphtool, mtlib, plethora-core, plethora, quark, redstonearsenal, redstoneflux, thermalcultivation, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, unidict, wanionlib, immersiveengineering] at CLIENT
+[10:39:25] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, OpenEye, foamfixcore, actuallyadditions, akashictome, appleskin, autoreglib, baubles, botania, cctweaked, computercraft, chisel, codechickenlib, cofhcore, cofhworld, computronics, asielib, crafttweaker, crafttweakerjei, enderstorage, fastfurnace, fastbench, foamfix, inventorytweaks, ironchest, jei, modtweaker, morphtool, mtlib, plethora-core, plethora, quark, redstonearsenal, redstoneflux, thermalcultivation, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, unidict, wanionlib, immersiveengineering] at SERVER
+[10:39:26] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[10:39:26] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[10:39:26] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[10:39:26] [Server thread/INFO] [Quark ASM]: Patch result: true
+[10:39:27] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[10:39:27] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[10:39:28] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
+[10:39:28] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[10:39:28] [Server thread/INFO] [FML]: Found 1275 ObjectHolder annotations
+[10:39:28] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[10:39:28] [Server thread/INFO] [FML]: Found 1 ItemStackHolder annotations
+[10:39:29] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[10:39:29] [Forge Version Check/INFO] [forge.VersionCheck]: [redstonearsenal] Starting version check at https://raw.github.com/cofh/version/master/redstonearsenal_update.json
+[10:39:29] [Server thread/INFO] [Actually Additions]: Starting PreInitialization Phase...
+[10:39:29] [Server thread/INFO] [Actually Additions]: Grabbing Configurations...
+[10:39:29] [Server thread/INFO] [Actually Additions]: Initializing Tool Materials...
+[10:39:29] [Server thread/INFO] [Actually Additions]: Initializing Armor Materials...
+[10:39:29] [Server thread/INFO] [Actually Additions]: Initializing Update Checker...
+[10:39:29] [Server thread/INFO] [Actually Additions]: PreInitializing ServerProxy...
+[10:39:29] [Server thread/INFO] [Actually Additions]: PreInitialization Finished.
+[10:39:29] [Actually Additions Update Checker/INFO] [Actually Additions]: Starting Update Check...
+[10:39:29] [Forge Version Check/INFO] [forge.VersionCheck]: [redstonearsenal] Found status: OUTDATED Target: 2.6.6
+[10:39:29] [Actually Additions Update Checker/INFO] [Actually Additions]: Update Check done!
+[10:39:29] [Actually Additions Update Checker/INFO] [Actually Additions]: Actually Additions is up to date!
+[10:39:29] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalcultivation] Starting version check at https://raw.github.com/cofh/version/master/thermalcultivation_update.json
+[10:39:29] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalcultivation] Found status: OUTDATED Target: 0.3.6
+[10:39:29] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Starting version check at https://raw.github.com/cofh/version/master/thermalinnovation_update.json
+[10:39:29] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Found status: OUTDATED Target: 0.3.6
+[10:39:29] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[10:39:30] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Found status: BETA Target: null
+[10:39:30] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Starting version check at https://raw.github.com/cofh/version/master/thermalexpansion_update.json
+[10:39:30] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Found status: OUTDATED Target: 5.5.7
+[10:39:30] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Starting version check at https://raw.github.com/cofh/version/master/cofhworld_update.json
+[10:39:30] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Found status: OUTDATED Target: 1.4.0
+[10:39:30] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[10:39:30] [Server thread/INFO] [Quark]: 'Ender watcher' is forcefully disabled as it's incompatible with the following loaded mods: [botania]
+[10:39:30] [Server thread/INFO] [Quark]: 'Dispensers place seeds' is forcefully disabled as it's incompatible with the following loaded mods: [botania]
+[10:39:30] [Server thread/INFO] [Quark]: 'Automatic tool restock' is forcefully disabled as it's incompatible with the following loaded mods: [inventorytweaks]
+[10:39:30] [Server thread/INFO] [Quark]: 'Inventory sorting' is forcefully disabled as it's incompatible with the following loaded mods: [inventorytweaks]
+[10:39:30] [Server thread/INFO] [Quark]: 'Food tooltip' is forcefully disabled as it's incompatible with the following loaded mods: [appleskin]
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Starting version check at https://raw.github.com/cofh/version/master/thermalfoundation_update.json
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Found status: OUTDATED Target: 2.6.7
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [enderstorage] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=EnderStorage
+[10:39:31] [Server thread/INFO] [Quark]: 'Charcoal block' is forcefully disabled as it's incompatible with the following loaded mods: [actuallyadditions]
+[10:39:31] [Server thread/INFO] [Quark]: Module misc is enabled
+[10:39:31] [Server thread/INFO] [Quark]: Module world is enabled
+[10:39:31] [Server thread/INFO] [Quark]: Module tweaks is enabled
+[10:39:31] [Server thread/INFO] [Quark]: Module experimental is enabled
+[10:39:31] [Server thread/INFO] [Quark]: Module automation is enabled
+[10:39:31] [Server thread/INFO] [Quark]: Module management is enabled
+[10:39:31] [Server thread/INFO] [Quark]: Module client is enabled
+[10:39:31] [Server thread/INFO] [Quark]: Module vanity is enabled
+[10:39:31] [Server thread/INFO] [Quark]: Module building is enabled
+[10:39:31] [Server thread/INFO] [Quark]: Module decoration is enabled
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [enderstorage] Found status: BETA Target: null
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Starting version check at https://raw.github.com/cofh/version/master/thermaldynamics_update.json
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Found status: OUTDATED Target: 2.5.6
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/master/changelog.json
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Found status: UP_TO_DATE Target: null
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Starting version check at https://raw.github.com/cofh/version/master/cofhcore_update.json
+[10:39:31] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Found status: OUTDATED Target: 4.6.6
+[10:39:32] [Server thread/INFO] [FML]: Applying holder lookups
+[10:39:32] [Server thread/INFO] [FML]: Holder lookups applied
+[10:39:32] [Server thread/INFO] [CoFH World]: Registering default Feature Templates...
+[10:39:32] [Server thread/INFO] [CoFH World]: Registering default World Generators...
+[10:39:32] [Server thread/INFO] [CoFH World]: Verifying or creating base world generation directory...
+[10:39:32] [Server thread/INFO] [CoFH World]: Complete.
+[10:39:32] [Server thread/INFO] [computronics]: Multiperipheral system for ComputerCraft engaged. Hooray!
+[10:39:32] [Server thread/INFO] [computronics]: Multiple mods registering peripherals for the same block now won't be a problem anymore.
+[10:39:32] [Server thread/INFO] [computronics-text-to-speech-loader]: Initializing Text To Speech
+[10:39:32] [Server thread/INFO] [computronics-text-to-speech-loader]: No MaryTTS directory found, you will not be able to use Text To Speech unless the server you are playing on has MaryTTS installed. To use TTS, install MaryTTS into the marytts directory of your minecraft instance.
+[10:39:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ender chest`, expected `enderstorage`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ender tank`, expected `enderstorage`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:33] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:33] [Server thread/INFO] [foamfix]: Removing LaunchWrapper package manifest map...
+[10:39:36] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering]: Attempting to download special revolvers from GitHub
+[10:39:36] [Server thread/INFO] [Chisel]: Loading blocks...
+[10:39:36] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[10:39:36] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[10:39:36] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[10:39:36] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
+[10:39:36] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[10:39:36] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:36] [Server thread/INFO] [Actually Additions]: Initializing Blocks...
+[10:39:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lit_furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:37] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `crafting_table`, expected `fastbench`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:37] [Server thread/INFO] [FML]: Applying holder lookups
+[10:39:37] [Server thread/INFO] [FML]: Holder lookups applied
+[10:39:37] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[10:39:37] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[10:39:37] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[10:39:37] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[10:39:37] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[10:39:37] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[10:39:37] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[10:39:37] [Server thread/INFO] [Quark ASM]: Patch result: true
+[10:39:37] [Server thread/INFO] [Chisel]: Loading items...
+[10:39:37] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[10:39:37] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[10:39:37] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[10:39:37] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
+[10:39:37] [Server thread/INFO] [Actually Additions]: Initializing Items...
+[10:39:38] [Server thread/INFO] [Actually Additions]: Initializing OreDictionary Entries...
+[10:39:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `fastfurnace`. This could be a intended override, but in most cases indicates a broken mod.
+[10:39:38] [Server thread/INFO] [FML]: Applying holder lookups
+[10:39:38] [Server thread/INFO] [FML]: Holder lookups applied
+[10:39:38] [Server thread/INFO] [Actually Additions]: Initializing Village Addons...
+[10:39:38] [Server thread/INFO] [FML]: Applying holder lookups
+[10:39:38] [Server thread/INFO] [FML]: Holder lookups applied
+[10:39:38] [Server thread/INFO] [FML]: Applying holder lookups
+[10:39:38] [Server thread/INFO] [FML]: Holder lookups applied
+[10:39:38] [Server thread/INFO] [FML]: Injecting itemstacks
+[10:39:38] [Server thread/INFO] [FML]: Itemstack injection complete
+[10:39:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[10:39:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[10:39:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[10:39:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[10:39:38] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[10:39:40] [Server thread/INFO] [Chisel]: Loading recipes...
+[10:39:40] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[10:39:40] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[10:39:40] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[10:39:40] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
+[10:39:40] [Server thread/INFO] [Actually Additions]: Initializing Crafting Recipes...
+[10:39:40] [Server thread/INFO] [FML]: Applying holder lookups
+[10:39:40] [Server thread/INFO] [FML]: Holder lookups applied
+[10:39:40] [Server thread/INFO] [Actually Additions]: Starting Initialization Phase...
+[10:39:40] [Server thread/INFO] [Actually Additions]: Initializing GuiHandler...
+[10:39:40] [Server thread/INFO] [Actually Additions]: Registering World Generator...
+[10:39:40] [Server thread/INFO] [Actually Additions]: Registering TileEntities...
+[10:39:40] [Server thread/INFO] [Actually Additions]: Initializing Entities...
+[10:39:40] [Server thread/INFO] [Actually Additions]: Initializing ServerProxy...
+[10:39:40] [Server thread/INFO] [Actually Additions]: Initialization Finished.
+[10:39:40] [Server thread/INFO] [foamfix]: Deduplicated 404 property sets.
+[10:39:40] [Server thread/INFO] [foamfix]: Weakening LaunchWrapper resource cache...
+[10:39:41] [Thread-14/INFO] [immersiveengineering]: Arc Recycling: Removed 0 old recipes
+[10:39:41] [Thread-14/INFO] [immersiveengineering]: Finished recipe profiler for Arc Recycling, took 40 milliseconds
+[10:39:41] [Server thread/INFO] [Chisel]: Received 9 IMC messages from mod immersiveengineering.
+[10:39:41] [Server thread/INFO] [Chisel]: Received 18 IMC messages from mod quark.
+[10:39:41] [Server thread/WARN] [thermalexpansion]: Thermal Expansion received an invalid IMC from chisel! Key was addcompactorpressrecipe
+[10:39:41] [Server thread/WARN] [thermalexpansion]: Thermal Expansion received an invalid IMC from chisel! Key was addcompactorpressrecipe
+[10:39:41] [Server thread/INFO] [FML]: Injecting itemstacks
+[10:39:41] [Server thread/INFO] [FML]: Itemstack injection complete
+[10:39:41] [Server thread/INFO] [Actually Additions]: Starting PostInitialization Phase...
+[10:39:41] [Server thread/INFO] [Actually Additions]: Initializing Crusher Recipes...
+[10:39:41] [Server thread/INFO] [Actually Additions]: Registered a total of 105 booklet chapters, where 296 out of 414 booklet pages contain information about items or fluids!
+[10:39:41] [Server thread/INFO] [Actually Additions]: PostInitializing ServerProxy...
+[10:39:41] [Server thread/INFO] [Actually Additions]: PostInitialization Finished.
+[10:39:41] [Server thread/INFO] [botania]: The Lexica Botania has 26597 words.
+[10:39:42] [Server thread/INFO] [plethora-core]: Loaded 138 methods and 41 metadata providers in 0.20800000000000002 seconds
+[10:39:42] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Actually Additions Plugin Enabled.
+[10:39:42] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Chisel Plugin Enabled.
+[10:39:42] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Computronics Plugin Enabled.
+[10:39:42] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Immersive Engineering Plugin Enabled.
+[10:39:43] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Quark Plugin Enabled.
+[10:39:43] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[10:39:43] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[10:39:43] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[10:39:43] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[10:39:43] [Server thread/INFO] [Quark ASM]: Patch result: true
+[10:39:43] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.terrasteelChest@32767, missing knowledge for {1xitem.manasteelChest@0=1.0}
+[10:39:43] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.terrasteelHelm@32767, missing knowledge for {1xitem.manasteelHelm@0=1.0}
+[10:39:43] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.starSword@32767, missing knowledge for {1xitem.terraSword@0=1.0}
+[10:39:43] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xtile.immersiveengineering.metal_device1@10, missing knowledge for {1xtile.immersiveengineering.metal_device0@4=1.0}
+[10:39:43] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.thunderSword@32767, missing knowledge for {1xitem.terraSword@0=1.0}
+[10:39:43] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.terrasteelHelmReveal@32767, missing knowledge for {1xitem.manasteelHelmReveal@0=1.0}
+[10:39:43] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.terrasteelLegs@32767, missing knowledge for {1xitem.manasteelLegs@0=1.0}
+[10:39:43] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xitem.terrasteelBoots@32767, missing knowledge for {1xitem.manasteelBoots@0=1.0}
+[10:39:43] [Server thread/INFO] [wanionlib]: UniDict: Initializing Module: Integration, Side: Server
+[10:39:43] [Server thread/INFO] [wanionlib]: Crafting Integration: Why so many recipes? I had to deal with at least 177 recipes.
+[10:39:43] [Server thread/INFO] [wanionlib]: Furnace Integration: Some things that you smelted appear to be different now.
+[10:39:43] [Server thread/INFO] [wanionlib]: Immersive Engineering Integration: The world's engineer appears to be more immersive.
+[10:39:43] [Server thread/INFO] [wanionlib]: Thermal Expansion Integration: The world seems to be more thermally involved.
+[10:39:43] [Server thread/INFO] [wanionlib]: UniDict: All 4 Integrations took 21ms to finish. at load stage PostInit
+[10:39:43] [Server thread/INFO] [cofhcore]: CoFH Core: Load Complete.
+[10:39:43] [Server thread/INFO] [CoFH World]: Accumulating world generation files from: "C:\Users\Lorenz\Desktop\LurCraft test\config\cofh\world"
+[10:39:43] [Server thread/INFO] [CoFH World]: Found a total of 3 world generation files.
+[10:39:43] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh\world\01_thermalfoundation_ores.json":
+[10:39:43] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh\world\02_thermalfoundation_oil.json":
+[10:39:43] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh\world\03_thermalfoundation_clathrates.json":
+[10:39:43] [Server thread/INFO] [CoFH World]: CoFH World: Load Complete.
+[10:39:43] [Server thread/INFO] [thermalfoundation]: [Whitelist] Reading established Whitelist from file.
+[10:39:43] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Load Complete.
+[10:39:43] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Load Complete.
+[10:39:43] [Server thread/INFO] [redstonearsenal]: Redstone Arsenal: Load Complete.
+[10:39:43] [Server thread/INFO] [thermalcultivation]: Thermal Cultivation: Load Complete.
+[10:39:43] [Server thread/INFO] [thermaldynamics]: Thermal Dynamics: Load Complete.
+[10:39:43] [Server thread/INFO] [thermalinnovation]: Thermal Innovation: Load Complete.
+[10:39:43] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 45 mods
+[10:39:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[10:39:44] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4ce19dad)
+[10:39:44] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 624 advancements
+[10:39:44] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:111]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
+[10:39:45] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4ce19dad)
+[10:39:45] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4ce19dad)
+[10:39:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[10:39:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 7%
+[10:39:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 13%
+[10:39:48] [Server thread/WARN] [FML]: Quark loaded a new chunk [-10, 19] in dimension 0 (overworld) while populating chunk [-10, 18], causing cascading worldgen lag.
+[10:39:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:39:48] [Server thread/WARN] [FML]: Quark loaded a new chunk [-9, 19] in dimension 0 (overworld) while populating chunk [-10, 18], causing cascading worldgen lag.
+[10:39:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:39:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 22%
+[10:39:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 32%
+[10:39:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 42%
+[10:39:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
+[10:39:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 61%
+[10:39:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 68%
+[10:39:54] [Server thread/WARN] [FML]: Quark loaded a new chunk [4, 25] in dimension 0 (overworld) while populating chunk [4, 24], causing cascading worldgen lag.
+[10:39:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:39:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
+[10:39:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 90%
+[10:39:56] [Server thread/WARN] [FML]: Quark loaded a new chunk [9, 21] in dimension 0 (overworld) while populating chunk [8, 21], causing cascading worldgen lag.
+[10:39:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:39:57] [Server thread/WARN] [FML]: Quark loaded a new chunk [10, 9] in dimension 0 (overworld) while populating chunk [10, 8], causing cascading worldgen lag.
+[10:39:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[10:39:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 98%
+[10:39:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (13,832s)! For help, type "help" or "?"
+[10:39:58] [Server thread/INFO] [Actually Additions]: No WorldData found, creating...
+[10:39:58] [Server thread/INFO] [immersiveengineering]: WorldData loading
+[10:39:58] [Server thread/INFO] [immersiveengineering]: WorldData not found
+[10:39:58] [BetterFps Update Checker/WARN] [BetterFps]: Could not check for updates: Server returned HTTP response code: 403 for URL: http://widget.mcf.li/mc-mods/minecraft/229876-betterfps.json
+[10:39:59] [Server thread/INFO] [FML]: Unloading dimension -1
+[10:39:59] [Server thread/INFO] [FML]: Unloading dimension 1
+[10:40:15] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player loloschnuff is 48eb6f73-4dd7-41e8-b98e-459f2821a232
+[10:40:15] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[10:40:15] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 49 mods : cctweaked@1.86.2,ctgui@1.0.0,asielib@1.0.0,OpenEye@0.8,jei@4.15.0.293,cofhcore@4.6.3,thermalcultivation@0.3.3,thermalinnovation@0.3.3,thermalfoundation@2.6.3,mcp@9.42,ctm@MC1.12.2-1.0.1.30,plethora-core@1.2.3,inventorytweaks@1.64+dev.150.7168e7a,foamfixcore@7.7.4,cofhworld@1.3.1,computronics@1.6.6,plethora@1.2.3,redstonearsenal@2.6.3,crafttweaker@4.1.20,enderstorage@2.4.6.137,akashictome@1.2-12,forge@14.23.5.2838,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,unidict@1.12.2-2.9.6,crafttweakerjei@2.0.3,mousetweaks@2.10,thermaldynamics@2.5.5,immersiveengineering@0.12-92,mtlib@3.0.6,baubles@1.5.2,redstoneflux@2.1.0,modtweaker@4.0.18,botania@r1.10-363,actuallyadditions@1.12.2-r151,quark@r1.6-178,fastbench@1.7.2,autoreglib@1.3-32,FML@8.0.99.99,thermalexpansion@5.5.4,fastfurnace@1.3.1,wanionlib@1.12.2-2.4,appleskin@1.0.9,computercraft@1.86.2,chisel@MC1.12.2-1.0.1.44,moreoverlays@1.15.1,foamfix@0.10.10-1.12.2,codechickenlib@3.2.3.358,morphtool@1.2-21
+[10:40:15] [Netty Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[10:40:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[10:40:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: loloschnuff[/127.0.0.1:53398] logged in with entity id 2035 at (-1.5, 64.0, 230.5)
+[10:40:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: loloschnuff joined the game
+[10:40:16] [Server thread/INFO] [Actually Additions]: Sending Player Data to player loloschnuff with UUID 48eb6f73-4dd7-41e8-b98e-459f2821a232.
+[10:44:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: loloschnuff has made the advancement [Stone Age]
+[10:47:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: loloschnuff has made the advancement [Getting an Upgrade]
+[10:48:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: loloschnuff has made the advancement [A Seedy Place]
+[10:49:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: loloschnuff has made the advancement [Sky of Beginning]
+[10:49:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: loloschnuff has made the advancement [Acquire Hardware]
+[10:50:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: loloschnuff has made the advancement [Sweet dreams]
+[10:57:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: loloschnuff has made the advancement [Isn't It Iron Pick]
+[10:57:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: loloschnuff has made the advancement [Suit Up]
+[10:58:43] [Netty Server IO #1/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_281]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_281]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:372) ~[minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123) [minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:624) [minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) [minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) [minecraft_server.1.12.2.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) [minecraft_server.1.12.2.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [minecraft_server.1.12.2.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281]
+[10:58:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: loloschnuff lost connection: Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+[10:58:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: loloschnuff left the game
+[10:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[10:58:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[10:58:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[10:58:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[10:58:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[10:58:48] [Server thread/INFO] [FML]: Unloading dimension 0
+[10:58:48] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[10:58:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[10:58:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[10:58:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
